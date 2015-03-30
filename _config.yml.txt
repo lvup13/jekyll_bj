@@ -1,2 +1,1 @@
 baseurl: /jekyll_bj
-encoding: UTF-8
